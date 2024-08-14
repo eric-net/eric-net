@@ -1,3 +1,4 @@
+
 ### <div align="center"> NET developer 🚀</div> 
 
 - As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.
@@ -98,6 +99,87 @@
   </ul>
 </div>
 
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=eric-net&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+ 
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=eric-net&theme=meta-dark)](https://git.io/streak-stats)
+
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eric-net&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,prisma,express,github,html,java,js,linux,md,nginx,mysql,nodejs,postman,react,redux,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+<a href="https://github.com/eric-net/eric-net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-net&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+</a>
+
+
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/eric-samuel-barrionuevo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.artstation.com/ericsamuelbarrionuevo2/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=eric-net&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
 
 <!---
 eric-net/eric-net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
