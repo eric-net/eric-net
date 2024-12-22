@@ -1,5 +1,5 @@
 
-### <div align="center"> NET developer 🚀</div> 
+### <div align="left"> NET developer 🚀</div> 
 
 ![banner](https://yourratio.co.uk/wp-content/uploads/2024/04/Ratio-Microsoft-Azure-.jpeg)
 
