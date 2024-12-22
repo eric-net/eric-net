@@ -1,6 +1,10 @@
 
 ### <div align="center"> NET developer 🚀</div> 
 
+![banner](https://yourratio.co.uk/wp-content/uploads/2024/04/Ratio-Microsoft-Azure-.jpeg)
+
+
+
 - As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.
 - I have a great interest in Back-end Web Development Services. With great self-taught ability, analytical criteria, aptitude for learning new technologies related to   A Cloud infrastructure, testing and DevOps.
   I am a person who always learns from colleagues, experiences in a work team, either to improve communication or soft skills
