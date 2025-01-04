@@ -18,7 +18,7 @@
 
 - 💬 Ask me about DevOps development, Motion Graphics, Rust, FrontEnd Technologies...
   
-  ✅ Windows
+  ✅ Windows / Docker
   
   ✅ Javascript / React
   
