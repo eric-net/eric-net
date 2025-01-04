@@ -20,11 +20,13 @@
   
   ✅ Windows
   
-  ✅ Javascript
+  ✅ Javascript / React
   
-  ✅ NetCore
+  ✅ NetCore 
   
-  ✅ Blazor
+  ✅ Blazor / Entity Framework
+
+  ✅ Angular
   
   ✅ Sql Server   
 
