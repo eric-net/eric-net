@@ -18,17 +18,13 @@
 
 - 💬 Ask me about DevOps development, Motion Graphics, Rust, FrontEnd Technologies...
   
-  ✅ Windows | Docker
+  ✅ Windows | Nmap
   
   ✅ Linux | Nginx
   
-  ✅ Javascript | React
-  
-  ✅ NetCore
+  ✅ Javascript | Angular
   
   ✅ Blazor | Entity Framework
-  
-  ✅ Angular
   
   ✅ Sql Server | Store Procedures    
 
