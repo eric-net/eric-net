@@ -28,7 +28,7 @@
   
   ✅ Sql Server | Store Procedures    
 
-# Projects:
+## Projects:
   - Football Analytics Copilot - [RagChallenge](https://github.com/erincon01/RAG-Challenge)
 
 
