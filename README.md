@@ -28,7 +28,9 @@
   
   ✅ Sql Server | Store Procedures    
 
-  
+# Projects:
+  - SQL Server Basics - [RagChallenge]([https://www.sqlshack.com/sql-server-training/](https://github.com/erincon01/RAG-Challenge))
+
 
 <br/>  
 
