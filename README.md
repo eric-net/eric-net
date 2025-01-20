@@ -18,15 +18,15 @@
 
 - 💬 Ask me about DevOps development, Motion Graphics, Rust, FrontEnd Technologies...
   
-  ✅ Windows | Nmap | Rust
+✅ Windows | Nmap | Rust
   
-  ✅ Linux | Nginx
+✅ Linux | Bash | Nginx
   
-  ✅ Javascript | Angular
+✅ Javascript | Angular
   
-  ✅ Blazor | Entity Framework
+✅ Blazor | Entity Framework
   
-  ✅ Sql Server | Store Procedures    
+✅ Sql Server | Store Procedures    
 
 ## Projects:
   - Football Analytics Copilot - [RagChallenge](https://github.com/erincon01/RAG-Challenge) 
