@@ -1,23 +1,23 @@
 
-### <div align="left"> NET developer 🚀</div> 
+## <div align="left"> NET Developer</div> 
 
 ![banner](https://yourratio.co.uk/wp-content/uploads/2024/04/Ratio-Microsoft-Azure-.jpeg)
 
 
 
-- As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.
-- I have a great interest in Back-end Web Development Services. With great self-taught ability, analytical criteria, aptitude for learning new technologies related to   A Cloud infrastructure, testing and DevOps.
-  I am a person who always learns from colleagues, experiences in a work team, either to improve communication or soft skills
+As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.
+I have a great interest in Back-end Web Development Services. 
+With great self-taught ability, analytical criteria, aptitude for learning new technologies related to   A Cloud infrastructure, testing and DevOps.
+I am a person who always learns from colleagues, experiences in a work team, either to improve communication or soft skills
 
-- 🐺 Currently learning Audio Designer, Rust, Math & Electronic Technologies.⛩️
 
--  Development and testing of applications in Net Framework.
--  Application streaming.
--  Software updates, technical documentation management.
+Currently learning Audio Designer, Math & DevsecOps Technologies.
+
+Development and testing of applications in Net Framework.
+
+Software updates, technical documentation management.
   
-
-- 💬 Ask me about DevOps development, Motion Graphics, Rust, FrontEnd Technologies...
-  
+### Tecnologies:  
 ✅ Windows | Nmap | Rust
   
 ✅ Linux | Bash | Nginx
@@ -28,8 +28,8 @@
   
 ✅ Sql Server | Store Procedures    
 
-## Projects:
-  - Football Analytics Copilot - [RagChallenge](https://github.com/erincon01/RAG-Challenge) 
+### Projects:
+- Football Analytics Copilot - [RagChallenge](https://github.com/erincon01/RAG-Challenge) 
 <div align="left">  
 
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
@@ -42,7 +42,7 @@
 <br/>  
 
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
