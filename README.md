@@ -20,7 +20,7 @@ Software updates, technical documentation management.
 ### Tecnologies:  
 ✅ Windows | Nmap | Rust
   
-✅ Linux | Bash | Nginx
+✅ Linux | Bash | Rust
   
 ✅ Javascript | Angular
   
