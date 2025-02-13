@@ -24,7 +24,7 @@ Software updates, technical documentation management.
   
 ✅ Javascript | Angular
   
-✅ Blazor | Entity Framework
+✅ Blazor | Entity Framework | ORM / Dapper
   
 ✅ Sql Server | Store Procedures    
 
