@@ -5,11 +5,14 @@
 
 
 
+
 As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.
 I have a great interest in Back-end Web Development Services. 
 With great self-taught ability, analytical criteria, aptitude for learning new technologies related to   A Cloud infrastructure, testing and DevOps.
 I am a person who always learns from colleagues, experiences in a work team, either to improve communication or soft skills
 
+![banner](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/Images/Microservice%20Using%20ASP.NET%20Core.png
+)
 
 Currently learning Audio Designer, Math & DevsecOps Technologies.
 
