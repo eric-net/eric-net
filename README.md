@@ -4,11 +4,8 @@
 
 ![banner](https://dinahosting.com/blog/upload/2022/05/ubunto-centos-almalinux.jpg)
 
-Currently learning Audio Designer, Math & DevsecOps Technologies.
-
+Currently learning Audio Designer.
 Development and testing of applications in Net Framework.
-
-Software updates, technical documentation management.
 
 ![banner](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/media/ddd-oriented-microservice/domain-driven-design-microservice.png
 )
@@ -20,14 +17,10 @@ Software updates, technical documentation management.
 
   
 ### Tecnologies:  
-✅ Windows | Nmap | Rust
-  
-✅ Linux | Bash | Rust
-  
+✅ Windows | Nmap | Rust 
+✅ Linux | Bash | Rust 
 ✅ Javascript | Angular
-  
-✅ Blazor | Entity Framework | ORM | Dapper
-  
+✅ Blazor | Entity Framework | Dapper
 ✅ Sql Server | Store Procedures    
 
 ### Projects:
