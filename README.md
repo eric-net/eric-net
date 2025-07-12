@@ -2,7 +2,7 @@
 
 <h3 align="left">NET Developer | SecOps | CyberSecurity | OpenGL | Linux | Blazor | Angular</h3>
 
-![banner](https://yourratio.co.uk/wp-content/uploads/2024/04/Ratio-Microsoft-Azure-.jpeg)
+![banner](https://dinahosting.com/blog/upload/2022/05/ubunto-centos-almalinux.jpg)
 
 Currently learning Audio Designer, Math & DevsecOps Technologies.
 
