@@ -17,10 +17,14 @@ Development and testing of applications in Net Framework.
 
   
 ### Tecnologies:  
-✅ Windows | Nmap | Rust 
+✅ Windows | Nmap | Rust
+
 ✅ Linux | Bash | Rust 
+
 ✅ Javascript | Angular
+
 ✅ Blazor | Entity Framework | Dapper
+
 ✅ Sql Server | Store Procedures    
 
 ### Projects:
