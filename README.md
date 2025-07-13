@@ -1,8 +1,9 @@
 
 
+<h3 align="left"> Angular | CyberSecurity | NET Developer | SecOps | OpenGL | Linux </h3>
 
 ![banner](https://dinahosting.com/blog/upload/2022/05/ubunto-centos-almalinux.jpg)
-<h3 align="left"> Angular | CyberSecurity | NET Developer | SecOps | OpenGL | Linux </h3>
+
 
 Currently learning Audio Designer.
 Development and testing of applications in Net Framework.
