@@ -2,7 +2,7 @@
 
 <h3 align="left"> Angular | CyberSecurity | NET Developer | SecOps | OpenGL | Linux </h3>
 
-![banner](https://dinahosting.com/blog/upload/2022/05/ubunto-centos-almalinux.jpg)
+![banner](https://indovisionglobal.com/wp-content/uploads/2023/04/AWS-vs-MS-vs-GCP-1.jpg)
 
 
 Currently learning Audio Designer.
