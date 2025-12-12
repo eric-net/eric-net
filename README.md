@@ -1,6 +1,6 @@
 
 
-<h3 align="left"> Angular | CyberSecurity | NET Developer | SecOps | OpenGL | Linux </h3>
+<h3 align="left"> CyberSecurity | NET | SecOps | Linux </h3>
 
 ![banner](https://indovisionglobal.com/wp-content/uploads/2023/04/AWS-vs-MS-vs-GCP-1.jpg)
 
@@ -20,7 +20,7 @@ Development and testing of applications in Net Framework.
 
 ✅ Linux | Bash | Rust 
 
-✅ Javascript | Angular
+✅ Infrastructure
 
 ✅ Blazor | Entity Framework | Dapper
 
