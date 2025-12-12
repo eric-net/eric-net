@@ -6,7 +6,6 @@
 
 
 Currently learning Audio Designer.
-Development and testing of applications in Net Framework.
 
 
 
