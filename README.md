@@ -1,6 +1,6 @@
 
 
-<h3 align="left"> CyberSecurity | NET | SecOps | Linux </h3>
+<h3 align="left"> .NET | SecOps | Linux </h3>
 
 ![banner](https://pbs.twimg.com/card_img/2121725660138020864/A0cRhMlq?format=webp&name=medium)
 
