@@ -2,6 +2,8 @@
 
 <h3 align="left"> CyberSecurity | NET | SecOps | Linux </h3>
 
+![banner](https://pbs.twimg.com/card_img/2121725660138020864/A0cRhMlq?format=webp&name=medium)
+
 ![banner](https://indovisionglobal.com/wp-content/uploads/2023/04/AWS-vs-MS-vs-GCP-1.jpg)
 
 
